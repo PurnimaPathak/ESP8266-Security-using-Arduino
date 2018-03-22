@@ -6,7 +6,7 @@ String userId = "purnima";
 
 
 const char* ssid = "SOC-LAB";
-const char* password = "itpsecurity";
+const char* password = "**********";
 
 //storing and matching cookies for user authentication
 //arduinoSession= millis();
